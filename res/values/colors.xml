@@ -14,6 +14,9 @@
      limitations under the License.
 -->
 <resources>
+    <color name="ic_fill_color">#FFFFFF</color>
+    <color name="ic_launcher_background">#FF0059C8</color>
+
     <color name="ic_add_contact_shortcut_background">#F5F5F5</color>
 
     <!-- 87% black -->
